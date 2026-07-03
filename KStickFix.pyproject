@@ -1,0 +1,19 @@
+{
+    "files": [
+        "README.md",
+        "CHANGELOG.md",
+        "LICENSE",
+        "requirements.txt",
+        "src/main.py",
+        "src/mainwindow.py",
+        "src/theme.py",
+        "src/usb_manager.py",
+        "src/analyzer.py",
+        "src/formatter.py",
+        "src/checksum.py",
+        "src/iso_writer.py",
+        "src/repair.py",
+        "src/system_check.py",
+        "src/dialogs.py"
+    ]
+}

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=KStickFix deinstallieren
+Comment=KStickFix deinstallieren
+Exec=sh -c 'cd "$(dirname "%k")"; ./DEINSTALLIEREN.sh'
+Icon=system-software-install
+Terminal=true
+Categories=Utility;System;
