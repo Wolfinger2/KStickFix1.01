@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=KStickFix installieren
+Exec=sh -c 'cd "$(dirname "%k")"; ./INSTALLIEREN.sh'
+Icon=system-software-install
+Terminal=true
+Categories=Utility;System;
